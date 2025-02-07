@@ -9,7 +9,7 @@
 
 Project Reboot is a tough battled and widely used game server for Fortnite.
 
-Below are the key points about this project:
+Below are the key points about this project
 
 ## Features
 
